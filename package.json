@@ -1,0 +1,40 @@
+{
+  "name": "week344",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "engines": {
+    "node": "^18.0.0",
+    "npm": "^6.0.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.0",
+    "bootstrap": "^5.2.1",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "express-session": "^1.17.3",
+    "http-errors": "~1.6.3",
+    "jquery": "^3.6.1",
+    "mongoose": "^6.6.2",
+    "morgan": "~1.9.1",
+    "nodemon": "^2.0.20",
+    "popper.js": "^1.16.1"
+  },
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ellijah1997/Assignment1.COMP229.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ellijah1997/Assignment1.COMP229/issues"
+  },
+  "homepage": "https://github.com/Ellijah1997/Assignment1.COMP229#readme",
+  "description": ""
+}
